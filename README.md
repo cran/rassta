@@ -1,5 +1,11 @@
 # rassta   
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/bafuentes/rassta/workflows/R-CMD-check/badge.svg)](https://github.com/bafuentes/rassta/actions)
+[![CRANstatus](https://www.r-pkg.org/badges/version/rassta)](https://cran.r-project.org/package=rassta)
+[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/rassta)](https://www.r-pkg.org/pkg/rassta)
+<!-- badges: end -->
+
 <img align="right" width="230" height="270" src="man/figures/rassta_logo.png">
 
  \
@@ -27,11 +33,18 @@ To install the development version from github, please use:
 remotes::install_github("bafuentes/rassta")
 ```
 
+## Cheat Sheet
+
+<p align="center" width="100%">
+    <img src="man/figures/rassta_cheatsheet.png">
+    
+</p>
+
 ## Acknowledgments
 
 `rassta` greatly benefits from past and current efforts to make spatial data
 analysis fully operational in R, which in turn have benefited from titans like
-GDAL, PROJ, GEOS, etc. Special thanks to the minds behind the `raster`, `rgdal`,
+GDAL, PROJ, GEOS, etc. Special thanks to the minds behind the `terra`, `rgdal`,
 `rgeos`, and `sf` packages, and those behind the packages that `rassta` depends
 on as well.
 
@@ -39,8 +52,8 @@ on as well.
 
 A journal article describing the analysis and theoretical background of `rassta`
 is on its way. In the meantime, if you use `rassta` as part of your research
-please consider including the following citation in your work:
+please cite the EarthArXiv preprint in your work:
 
-Bryan A. Fuentes, Minerva J. Dorantes, and John R. Tipton (2021).
-rassta: Raster-Based Spatial Stratification Algorithms. R package version 1.0.0.
-https://CRAN.R-project.org/package=rassta
+B.A. Fuentes, M.J. Dorantes, and J.R. Tipton. rassta: Raster-based Spatial
+Stratification Algorithms. *EarthArXiv*, 2021. https://doi.org/10.31223/X50S57
+
