@@ -2,8 +2,8 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/bafuentes/rassta/workflows/R-CMD-check/badge.svg)](https://github.com/bafuentes/rassta/actions)
-[![CRANstatus](https://www.r-pkg.org/badges/version/rassta)](https://cran.r-project.org/package=rassta)
-[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/rassta)](https://www.r-pkg.org/pkg/rassta)
+[![CRANstatus](https://www.r-pkg.org/badges/version/rassta)](https://CRAN.R-project.org/package=rassta)
+[![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/rassta)](https://CRAN.R-project.org/package=rassta)
 <!-- badges: end -->
 
 <img align="right" width="230" height="270" src="man/figures/rassta_logo.png">
@@ -39,6 +39,8 @@ remotes::install_github("bafuentes/rassta")
     <img src="man/figures/rassta_cheatsheet.png">
     
 </p>
+
+Full documentation of `rassta` including some vignettes can be found [here](https://bafuentes.github.io/rassta/)
 
 ## Acknowledgments
 
