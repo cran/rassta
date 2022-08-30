@@ -1,9 +1,9 @@
-9b708339a3a2f819de728ca98174c4be *DESCRIPTION
+37778e021f8fbc8b7dd952c5c3c74aaf *DESCRIPTION
 30148feec20c2c1fe75f1c9be0eafa50 *NAMESPACE
-141b705cd2271eab52e00a6ef5595a26 *NEWS.md
+8be8f476ba93812b220fa578ce834c4a *NEWS.md
 daddceababcca9c525915aca2b98bcfd *R/dummies.r
-52f5f3cf3bbedc000a97415afca7e9f4 *R/engine.r
-323ee48728ff554ecc9de5d5a3cea03d *R/figure.r
+34fad54b118af5e6dbb6d86c2c6af7a2 *R/engine.r
+e62fba83db3858c6aa16edfed0fdfe26 *R/figure.r
 1bb17d000b3eace124db514c00d3da40 *R/locations.r
 fab77d8135a2a5955fdc5d5a657eabdf *R/observation.r
 2cb64564cbef536fc0c63c71650a7a29 *R/plot3d.r
@@ -14,7 +14,7 @@ a02499b355a07dccdc2dde8878d8cba6 *R/similarity.r
 e8a7954b0e1697ea975ae1c4d14d6cdf *R/som_gap.r
 9e0ca4b7ab17b1da03b6d0a9556d988e *R/som_pam.r
 86f3be375017809c5e680fed61765b9d *R/strata.r
-a79ac57c0aff651f9489971de8941e76 *README.md
+48d0c4fb527f3dad632bdb4b22dec6fb *README.md
 0c6ad5b3446721162c89589e8077ab1c *build/partial.rdb
 3bfdd676d3fd0ffe3e40e5d5d947f150 *build/vignette.rds
 0c8ec2081b0483a3b316373821066568 *inst/CITATION
