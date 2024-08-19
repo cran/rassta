@@ -34,10 +34,8 @@ Full documentation of `rassta` including some vignettes can be found [here](http
 
 ## Acknowledgments
 
-`rassta` greatly benefits from past and current efforts to make spatial data analysis fully operational in R, which in turn have benefited from titans like GDAL, PROJ, GEOS, etc. Special thanks to the minds behind the `terra`, `rgdal`, `rgeos`, and `sf` packages, and those behind the packages that `rassta` depends on as well.
+`rassta` greatly benefits from past and current efforts to make spatial data analysis fully operational in R, which in turn have benefited from titans like GDAL, PROJ, GEOS, etc. Special thanks to the minds behind the `terra`, `rgdal`, `rgeos`, and `sf` packages, and those behind the other packages that `rassta` depends on as well.
 
 ## Citation
 
-A journal article describing the methods and theoretical background of `rassta` has been accepted by the R Journal and now it is in press. In the meantime, if you use `rassta` as part of your research please cite the EarthArXiv preprint in your work:
-
-B.A. Fuentes, M.J. Dorantes, and J.R. Tipton. rassta: Raster-Based Spatial Stratification Algorithms. *EarthArXiv*, 2021. <https://doi.org/10.31223/X50S57>
+A journal article describing the methods and theoretical background of `rassta` has been published by the R Journal and it is available here: <https://doi.org/10.32614/RJ-2022-036>. You can use `citation("rassta")` to get a BibTeX entry for LaTeX.

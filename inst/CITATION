@@ -4,9 +4,10 @@ bibentry(
   bibtype = "Article",
   title = "rassta: {R}aster-based {S}patial {S}tratification {A}lgorithms",
   author = "B. A. Fuentes and M. J. Dorantes and J. R. Tipton",
-  journal = "EarthArXiv",
-  year = "2021",
-  url = "https://doi.org/10.31223/X50S57",
+  journal = "The R Journal",
+  year = "2022",
+  url = "https://doi.org/10.32614/RJ-2022-036",
   textVersion = "B.A. Fuentes, M.J. Dorantes, and J.R. Tipton. rassta: Raster-based Spatial
-Stratification Algorithms. EarthArXiv, 2021. https://doi.org/10.31223/X50S57"
+Stratification Algorithms. The R Journal, 2022. https://doi.org/10.32614/RJ-2022-036"
 )
+

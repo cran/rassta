@@ -1,3 +1,12 @@
+# **rassta 1.0.6**
+
+### **Fixes**
+
+* Remove invalid ORCID link from `Description`
+
+* Updated `Citation`
+
+
 # **rassta 1.0.5**
 
 ### **Fixes**
